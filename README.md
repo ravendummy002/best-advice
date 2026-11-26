@@ -12,7 +12,7 @@ One line of the best advice I ever got: never trust a meeting scheduled for Frid
 node main.ts
 ```
 
-Writes the line to `/output/entry.txt` (161 characters, one line, deterministic).
+Writes the line to `/output/entry.txt` (154 characters, one line, deterministic).
 
 ---
 
